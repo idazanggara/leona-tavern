@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Viktor",
+    "star": "Tenko",
+    "job": "swordsman",
+    "isInParty": false
+  },
+  {
+    "name": "Flik",
+    "star": "Tenan",
+    "job": "swordsman",
+    "isInParty": false
+  },
+  {
+    "name": "Gengen",
+    "star": "Chitan",
+    "job": "swordsman",
+    "isInParty": false
+  },
+  {
+    "name": "Tsai",
+    "star": "Tenyu",
+    "job": "spearman",
+    "isInParty": false
+  },
+  {
+    "name": "Futch",
+    "star": "Chibi",
+    "job": "spearman",
+    "isInParty": false
+  },
+  {
+    "name": "Luc",
+    "star": "Tenkai",
+    "job": "mage",
+    "isInParty": false
+  },
+  {
+    "name": "Mazus",
+    "star": "Chizen",
+    "job": "mage",
+    "isInParty": false
+  }
+]
